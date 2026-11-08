@@ -55,6 +55,5 @@ Power BI Desktop · DAX · Power Query
 
 Hi, I'm Farhana ashraf ganaie, learning data analytics and building projects to practice. I'd love feedback.
 
-Connect with me on [LinkedIn]www.linkedin.com/in/
-farhana-ashraf-ganaie-8b188529b
+Connect with me on [LinkedIn](https://www.linkedin.com/in/farhana-ashraf-ganaie-8b188529b).
 
